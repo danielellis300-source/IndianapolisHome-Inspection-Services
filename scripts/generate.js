@@ -48,7 +48,7 @@ function generateSitemap() {
   urls.push({ loc: `${config.domain}/blog/`, lastmod: today, priority: '0.7' });
 
   // Blog articles
-  articles.forEach(a => urls.push({ loc: `${config.domain}/blog/${a.slug}.html`, lastmod: a.date, priority: '0.6' }));
+  articles.forEach(a => urls.push({ loc: `${config.domain}/blog/${a.slug}`, lastmod: a.date, priority: '0.6' }));
 
   const body = urls.map(u => `  <url>
     <loc>${u.loc}</loc>

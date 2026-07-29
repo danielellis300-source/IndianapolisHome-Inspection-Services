@@ -12,20 +12,20 @@ module.exports = {
   // relevant in-body links from article content.
   cities: [
     { name: "Indianapolis", file: "/" },
-    { name: "Carmel", file: "/carmel.html" },
-    { name: "Fishers", file: "/fishers.html" },
-    { name: "Zionsville", file: "/zionsville.html" },
-    { name: "Westfield", file: "/westfield.html" },
-    { name: "Noblesville", file: "/noblesville.html" },
-    { name: "Avon", file: "/avon.html" },
-    { name: "Greenwood", file: "/greenwood.html" },
-    { name: "Brownsburg", file: "/brownsburg.html" },
-    { name: "Plainfield", file: "/plainfield.html" },
-    { name: "Lawrence", file: "/lawrence.html" },
-    { name: "Beech Grove", file: "/beech-grove.html" },
-    { name: "Speedway", file: "/speedway.html" },
-    { name: "Mooresville", file: "/mooresville.html" },
-    { name: "Shelbyville", file: "/shelbyville.html" },
-    { name: "Lebanon", file: "/lebanon.html" }
+    { name: "Carmel", file: "/carmel" },
+    { name: "Fishers", file: "/fishers" },
+    { name: "Zionsville", file: "/zionsville" },
+    { name: "Westfield", file: "/westfield" },
+    { name: "Noblesville", file: "/noblesville" },
+    { name: "Avon", file: "/avon" },
+    { name: "Greenwood", file: "/greenwood" },
+    { name: "Brownsburg", file: "/brownsburg" },
+    { name: "Plainfield", file: "/plainfield" },
+    { name: "Lawrence", file: "/lawrence" },
+    { name: "Beech Grove", file: "/beech-grove" },
+    { name: "Speedway", file: "/speedway" },
+    { name: "Mooresville", file: "/mooresville" },
+    { name: "Shelbyville", file: "/shelbyville" },
+    { name: "Lebanon", file: "/lebanon" }
   ]
 };

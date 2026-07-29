@@ -41,12 +41,12 @@ module.exports = [
     {
       h2: "What makes Indianapolis pricing go up",
       html: `<p>Four things reliably push the quote higher: square footage over 3,000 sq ft, a crawl space or unfinished basement that needs to be physically entered rather than viewed from a hatch, homes built before 1978 (which may trigger extra attention to older wiring, plumbing, and lead-based paint discussion), and detached structures like a barn, pole building, or guest house that get added to the scope.</p>
-      <p>Rural properties around <a href="/mooresville.html">Mooresville</a> or <a href="/lebanon.html">Lebanon</a> with a private well and septic system also tend to run higher, since each of those systems is essentially its own mini-inspection with its own equipment and checklist. Spring and early summer, the busiest buying season locally, can also mean less flexibility on same-week scheduling — booking a day or two earlier than you think you need to rarely hurts.</p>`
+      <p>Rural properties around <a href="/mooresville">Mooresville</a> or <a href="/lebanon">Lebanon</a> with a private well and septic system also tend to run higher, since each of those systems is essentially its own mini-inspection with its own equipment and checklist. Spring and early summer, the busiest buying season locally, can also mean less flexibility on same-week scheduling — booking a day or two earlier than you think you need to rarely hurts.</p>`
     },
     {
       h2: "Is the cheapest inspector actually the best deal?",
       html: `<p>Rarely. A rock-bottom price is often a sign of a rushed inspection, an inspector who isn't carrying full E&amp;O and general liability insurance, or a report that skips photos entirely. In a $300,000+ purchase, the difference between a $275 inspector and a $425 inspector is a rounding error — but the difference between a thorough report and a thin one can cost you tens of thousands after closing.</p>
-      <p>A useful gut check: ask what a quote excludes, not just what it includes. Inspectors racing to underbid competitors often do it by trimming time on site, not by being more efficient. See our guide on <a href="/blog/how-to-choose-a-home-inspector-in-indianapolis.html">choosing a home inspector in Indianapolis</a> for the specific red flags to watch for before you book.</p>`
+      <p>A useful gut check: ask what a quote excludes, not just what it includes. Inspectors racing to underbid competitors often do it by trimming time on site, not by being more efficient. See our guide on <a href="/blog/how-to-choose-a-home-inspector-in-indianapolis">choosing a home inspector in Indianapolis</a> for the specific red flags to watch for before you book.</p>`
     },
     {
       h2: "Key takeaways",
@@ -78,11 +78,11 @@ module.exports = [
     },
     {
       h2: "1,200–2,200 sq ft — the Indianapolis sweet spot",
-      html: `<p>This is where most Marion County resale homes fall, and pricing typically runs <strong>$325–$425</strong>. This size band covers the classic Indianapolis bungalow, ranch, and two-story homes found in neighborhoods like Broad Ripple, Irvington, and Beech Grove, as well as comparable homes in <a href="/greenwood.html">Greenwood</a> and <a href="/plainfield.html">Plainfield</a>. Most inspections in this range take right around 2.5–3 hours on site.</p>`
+      html: `<p>This is where most Marion County resale homes fall, and pricing typically runs <strong>$325–$425</strong>. This size band covers the classic Indianapolis bungalow, ranch, and two-story homes found in neighborhoods like Broad Ripple, Irvington, and Beech Grove, as well as comparable homes in <a href="/greenwood">Greenwood</a> and <a href="/plainfield">Plainfield</a>. Most inspections in this range take right around 2.5–3 hours on site.</p>`
     },
     {
       h2: "2,200–3,200 sq ft — larger family homes",
-      html: `<p>Budget <strong>$400–$500</strong>. This size is common in newer subdivisions across <a href="/fishers.html">Fishers</a>, <a href="/westfield.html">Westfield</a>, and <a href="/noblesville.html">Noblesville</a>, where two-story homes with finished basements and three-car garages push both the square footage and the inspection time up. A finished basement in this range typically adds 30–45 minutes to the visit since it's inspected with the same rigor as the rest of the living space.</p>`
+      html: `<p>Budget <strong>$400–$500</strong>. This size is common in newer subdivisions across <a href="/fishers">Fishers</a>, <a href="/westfield">Westfield</a>, and <a href="/noblesville">Noblesville</a>, where two-story homes with finished basements and three-car garages push both the square footage and the inspection time up. A finished basement in this range typically adds 30–45 minutes to the visit since it's inspected with the same rigor as the rest of the living space.</p>`
     },
     {
       h2: "3,200+ sq ft — larger homes in Carmel and Zionsville",
@@ -91,7 +91,7 @@ module.exports = [
     {
       h2: "Basements and crawl spaces change the math",
       html: `<p>A finished basement adds livable square footage and typically adds cost accordingly, since it's inspected to the same standard as any above-grade room. An unfinished basement or crawl space doesn't add "square footage" in the traditional sense, but it does add inspection time — especially a crawl space that requires the inspector to physically enter and photograph framing, insulation, and moisture conditions, which is common given Indiana's clay soil and the moisture issues it tends to create underneath a home.</p>
-      <p>See our guide on <a href="/blog/crawl-space-basement-inspection-guide-indianapolis.html">crawl space and basement inspections</a> for what that specific part of the visit involves and why it's worth the extra time rather than a quick glance from the hatch.</p>
+      <p>See our guide on <a href="/blog/crawl-space-basement-inspection-guide-indianapolis">crawl space and basement inspections</a> for what that specific part of the visit involves and why it's worth the extra time rather than a quick glance from the hatch.</p>
       <p>Ranges like these are useful for budgeting, but pricing shouldn't be a guessing game once you have an actual address and listing sheet in hand — tell us the square footage, age, and any known extras and we'll give you a firm number before you book, no surprise add-ons once we're on site.</p>`
     },
     {
@@ -138,7 +138,7 @@ module.exports = [
     {
       h2: "Should every buyer test?",
       html: `<p>Yes. Radon mitigation is one of the few inspection findings that's genuinely cheap to fix relative to the health risk of ignoring it, and testing adds only a modest amount to your total inspection invoice. It's one of the easiest add-ons to justify on a cost-benefit basis of any service we offer.</p>
-      <p>For more on how radon risk breaks down county by county across the metro and whether Indiana law requires it, see our guide to <a href="/blog/radon-levels-indiana-do-i-need-a-test.html">radon testing requirements in Indiana</a>.</p>`
+      <p>For more on how radon risk breaks down county by county across the metro and whether Indiana law requires it, see our guide to <a href="/blog/radon-levels-indiana-do-i-need-a-test">radon testing requirements in Indiana</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -174,7 +174,7 @@ module.exports = [
     },
     {
       h2: "Why it matters more in older Indianapolis neighborhoods",
-      html: `<p>Homes built before the 1970s in areas like Irvington, Fountain Square, Meridian-Kessler, and older sections of <a href="/beech-grove.html">Beech Grove</a> and <a href="/speedway.html">Speedway</a> often still have original clay tile or cast iron sewer laterals. Clay tile is prone to root intrusion at the joints as tree roots seek out moisture, and cast iron corrodes and eventually collapses from the inside as decades of use wear down the pipe wall. Neither shows up on a visual inspection — the line is buried and the yard looks fine right up until it isn't, sometimes for years after the problem actually starts.</p>`
+      html: `<p>Homes built before the 1970s in areas like Irvington, Fountain Square, Meridian-Kessler, and older sections of <a href="/beech-grove">Beech Grove</a> and <a href="/speedway">Speedway</a> often still have original clay tile or cast iron sewer laterals. Clay tile is prone to root intrusion at the joints as tree roots seek out moisture, and cast iron corrodes and eventually collapses from the inside as decades of use wear down the pipe wall. Neither shows up on a visual inspection — the line is buried and the yard looks fine right up until it isn't, sometimes for years after the problem actually starts.</p>`
     },
     {
       h2: "What a bad line actually costs to fix",
@@ -227,7 +227,7 @@ module.exports = [
     },
     {
       h2: "The bigger picture",
-      html: `<p>Mold itself is rarely the real problem — it's a symptom of an underlying moisture problem that needs its own fix. A good inspection report addresses both: what's growing, and why it's there in the first place. If your report flags moisture conditions but not active mold yet, our <a href="/blog/summer-home-maintenance-tips-indiana-humidity.html">guide to managing humidity in Indiana homes</a> covers practical prevention steps you can take before it becomes a bigger and more expensive problem.</p>`
+      html: `<p>Mold itself is rarely the real problem — it's a symptom of an underlying moisture problem that needs its own fix. A good inspection report addresses both: what's growing, and why it's there in the first place. If your report flags moisture conditions but not active mold yet, our <a href="/blog/summer-home-maintenance-tips-indiana-humidity">guide to managing humidity in Indiana homes</a> covers practical prevention steps you can take before it becomes a bigger and more expensive problem.</p>`
     },
     {
       h2: "Key takeaways",
@@ -273,7 +273,7 @@ module.exports = [
     {
       h2: "The one-year warranty inspection",
       html: `<p>Many buyers skip this, and it's a mistake. Scheduling a follow-up inspection close to the one-year builder warranty deadline catches settling cracks, HVAC issues that only show up after a full heating and cooling season of real use, and drainage problems that only appear after real rain events — all while they're still the builder's responsibility to fix at no cost to you.</p>
-      <p>For a full breakdown of what's included in any inspection's scope, phase-based or otherwise, see our guide to <a href="/blog/what-does-a-home-inspection-cover.html">what a standard home inspection covers</a>.</p>`
+      <p>For a full breakdown of what's included in any inspection's scope, phase-based or otherwise, see our guide to <a href="/blog/what-does-a-home-inspection-cover">what a standard home inspection covers</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -317,7 +317,7 @@ module.exports = [
     },
     {
       h2: "How this connects to your inspection",
-      html: `<p>Read the disclosure form before your inspection and flag anything vague or concerning for your inspector to pay extra attention to during the visit — a seller who checked "unknown" next to "roof leaks" is telling you exactly where to look closer. If you're the one selling, see our guide on <a href="/blog/pre-listing-inspection-why-sellers-need-one.html">pre-listing inspections</a>. Getting ahead of issues before they show up on a buyer's report, and potentially conflict with what you already disclosed, protects you on both fronts at once.</p>`
+      html: `<p>Read the disclosure form before your inspection and flag anything vague or concerning for your inspector to pay extra attention to during the visit — a seller who checked "unknown" next to "roof leaks" is telling you exactly where to look closer. If you're the one selling, see our guide on <a href="/blog/pre-listing-inspection-why-sellers-need-one">pre-listing inspections</a>. Getting ahead of issues before they show up on a buyer's report, and potentially conflict with what you already disclosed, protects you on both fronts at once.</p>`
     },
     {
       h2: "Key takeaways",
@@ -362,7 +362,7 @@ module.exports = [
     },
     {
       h2: "Our recommendation",
-      html: `<p>Add radon testing to every Indianapolis-area home purchase, full stop. At $125–$175 bundled with your inspection, it's inexpensive insurance against a health risk that's completely fixable — mitigation systems run about $1,000–$1,500 and are frequently negotiated as a seller-paid item when a high result comes back during the due diligence period. For full pricing details and how the test itself works, see our <a href="/blog/radon-testing-cost-indianapolis.html">radon testing cost guide</a>.</p>`
+      html: `<p>Add radon testing to every Indianapolis-area home purchase, full stop. At $125–$175 bundled with your inspection, it's inexpensive insurance against a health risk that's completely fixable — mitigation systems run about $1,000–$1,500 and are frequently negotiated as a seller-paid item when a high result comes back during the due diligence period. For full pricing details and how the test itself works, see our <a href="/blog/radon-testing-cost-indianapolis">radon testing cost guide</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -407,7 +407,7 @@ module.exports = [
     },
     {
       h2: "The practical takeaway",
-      html: `<p>Knowing the decade a home was built lets you ask sharper questions before you even schedule the inspection. Bring up the home's approximate build year when you book with us, and we'll make sure the visit pays extra attention to whatever's typical for that era. For a broader look at what turns up most often locally across all housing stock, see our roundup of <a href="/blog/common-issues-found-in-indianapolis-home-inspections.html">the most common issues found in Indianapolis inspections</a>.</p>`
+      html: `<p>Knowing the decade a home was built lets you ask sharper questions before you even schedule the inspection. Bring up the home's approximate build year when you book with us, and we'll make sure the visit pays extra attention to whatever's typical for that era. For a broader look at what turns up most often locally across all housing stock, see our roundup of <a href="/blog/common-issues-found-in-indianapolis-home-inspections">the most common issues found in Indianapolis inspections</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -452,7 +452,7 @@ module.exports = [
     },
     {
       h2: "Bottom line",
-      html: `<p>The absence of state licensing in Indiana puts more responsibility on buyers to vet who they're hiring — it's not a reason to skip an inspection or assume all inspectors are roughly equal, because in practice they're not. See our full breakdown of <a href="/blog/how-to-choose-a-home-inspector-in-indianapolis.html">red flags to avoid when choosing an inspector</a> for the complete picture, including a few warning signs that go beyond credentials alone.</p>`
+      html: `<p>The absence of state licensing in Indiana puts more responsibility on buyers to vet who they're hiring — it's not a reason to skip an inspection or assume all inspectors are roughly equal, because in practice they're not. See our full breakdown of <a href="/blog/how-to-choose-a-home-inspector-in-indianapolis">red flags to avoid when choosing an inspector</a> for the complete picture, including a few warning signs that go beyond credentials alone.</p>`
     },
     {
       h2: "Key takeaways",
@@ -498,7 +498,7 @@ module.exports = [
     {
       h2: "6. Slow, thin reports and poor follow-up",
       html: `<p>In the Indianapolis market, same-day digital reports with photos are the standard, not a premium add-on you should have to pay extra for. A report that takes a week and comes back as a bare checklist without photo documentation makes it much harder to use during negotiation, and harder to reference months later if an issue resurfaces. That same pattern often shows up again after the invoice is paid — a good inspector expects and welcomes follow-up questions for weeks after delivering the report, while a weaker one gets noticeably harder to reach. Check reviews specifically for mentions of post-inspection responsiveness, not just the inspection day itself.</p>
-      <p>For the specific questions worth asking before you even book, see our <a href="/blog/questions-to-ask-a-home-inspector-before-hiring.html">pre-hire question checklist</a>.</p>`
+      <p>For the specific questions worth asking before you even book, see our <a href="/blog/questions-to-ask-a-home-inspector-before-hiring">pre-hire question checklist</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -559,7 +559,7 @@ module.exports = [
     },
     {
       h2: "Put it together",
-      html: `<p>None of these twelve questions are designed to be a trap — a solid inspector will answer all of them without hesitation, usually before you even finish asking the full question. If you get vague or defensive answers on more than one or two, that's worth weighing heavily before you commit to a booking. See our related guide on <a href="/blog/how-to-choose-a-home-inspector-in-indianapolis.html">red flags to avoid</a> when vetting inspectors anywhere in the Indianapolis market.</p>`
+      html: `<p>None of these twelve questions are designed to be a trap — a solid inspector will answer all of them without hesitation, usually before you even finish asking the full question. If you get vague or defensive answers on more than one or two, that's worth weighing heavily before you commit to a booking. See our related guide on <a href="/blog/how-to-choose-a-home-inspector-in-indianapolis">red flags to avoid</a> when vetting inspectors anywhere in the Indianapolis market.</p>`
     },
     {
       h2: "Key takeaways",
@@ -605,7 +605,7 @@ module.exports = [
     {
       h2: "HVAC, interior, and what's typically excluded",
       html: `<p>Furnace and air conditioning function testing (within normal seasonal operating conditions and temperature ranges), ductwork condition where visible, thermostat operation, and a full interior walkthrough of every room checking floors, walls, ceilings, doors, and windows for function and any visible damage. Basements and crawl spaces are inspected for structural condition and moisture signs as part of this same walkthrough.</p>
-      <p>Radon, mold lab testing, sewer scope, well/septic, pools and spas, and detached outbuildings are usually priced as add-ons rather than included by default — ask specifically if you want any of them bundled into your visit. Cosmetic issues like paint, minor flooring wear, or carpet condition are generally noted in passing but not treated as inspection "findings" the way a structural or safety issue would be. For a full pricing breakdown including all these common add-ons, see our <a href="/blog/home-inspection-cost-indianapolis.html">Indianapolis inspection cost guide</a>.</p>`
+      <p>Radon, mold lab testing, sewer scope, well/septic, pools and spas, and detached outbuildings are usually priced as add-ons rather than included by default — ask specifically if you want any of them bundled into your visit. Cosmetic issues like paint, minor flooring wear, or carpet condition are generally noted in passing but not treated as inspection "findings" the way a structural or safety issue would be. For a full pricing breakdown including all these common add-ons, see our <a href="/blog/home-inspection-cost-indianapolis">Indianapolis inspection cost guide</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -697,7 +697,7 @@ module.exports = [
     },
     {
       h2: "Weatherstripping and caulk",
-      html: `<p>Check weatherstripping around every exterior door and re-caulk any gaps you find around window frames. This is inexpensive, takes an afternoon at most, and directly affects heating bills for the entire winter ahead. For a full room-by-room approach once this outdoor checklist is done, see our companion <a href="/blog/winterizing-your-indianapolis-home.html">winterizing guide</a> for what to check indoors.</p>`
+      html: `<p>Check weatherstripping around every exterior door and re-caulk any gaps you find around window frames. This is inexpensive, takes an afternoon at most, and directly affects heating bills for the entire winter ahead. For a full room-by-room approach once this outdoor checklist is done, see our companion <a href="/blog/winterizing-your-indianapolis-home">winterizing guide</a> for what to check indoors.</p>`
     },
     {
       h2: "Key takeaways",
@@ -789,7 +789,7 @@ module.exports = [
     },
     {
       h2: "Check the sump pump before storm season",
-      html: `<p>Summer thunderstorms in central Indiana can dump a lot of rain in a very short window. Test your sump pump before storm season peaks in earnest, and consider a battery backup if you don't already have one installed — a power outage during a heavy storm is exactly when you need the pump working the most, and exactly when standard power is most likely to fail. If you're seeing ongoing moisture issues despite these steps, our <a href="/blog/mold-inspection-cost-indianapolis.html">mold inspection cost guide</a> covers when it's worth bringing in a professional to test further.</p>`
+      html: `<p>Summer thunderstorms in central Indiana can dump a lot of rain in a very short window. Test your sump pump before storm season peaks in earnest, and consider a battery backup if you don't already have one installed — a power outage during a heavy storm is exactly when you need the pump working the most, and exactly when standard power is most likely to fail. If you're seeing ongoing moisture issues despite these steps, our <a href="/blog/mold-inspection-cost-indianapolis">mold inspection cost guide</a> covers when it's worth bringing in a professional to test further.</p>`
     },
     {
       h2: "Key takeaways",
@@ -836,7 +836,7 @@ module.exports = [
     },
     {
       h2: "How it interacts with the buyer's own inspection",
-      html: `<p>A pre-listing inspection doesn't replace the buyer's right to their own independent inspection — most buyers and their lenders will still want one, and that's completely normal and expected. What it does is make sure nothing on that second inspection catches you off guard when it comes back. It also directly supports the accuracy of your <a href="/blog/indiana-seller-disclosure-law.html">Indiana seller disclosure form</a>, since you're disclosing from documented, verified findings rather than memory or guesswork.</p>`
+      html: `<p>A pre-listing inspection doesn't replace the buyer's right to their own independent inspection — most buyers and their lenders will still want one, and that's completely normal and expected. What it does is make sure nothing on that second inspection catches you off guard when it comes back. It also directly supports the accuracy of your <a href="/blog/indiana-seller-disclosure-law">Indiana seller disclosure form</a>, since you're disclosing from documented, verified findings rather than memory or guesswork.</p>`
     },
     {
       h2: "Key takeaways",
@@ -882,7 +882,7 @@ module.exports = [
     },
     {
       h2: "Consider getting ahead of it entirely",
-      html: `<p>If your home is older, has known deferred maintenance, or you simply want zero surprises during negotiation, a <a href="/blog/pre-listing-inspection-why-sellers-need-one.html">pre-listing inspection</a> lets you handle all of this proactively instead of reactively, entirely on your own timeline rather than the buyer's rushed one.</p>`
+      html: `<p>If your home is older, has known deferred maintenance, or you simply want zero surprises during negotiation, a <a href="/blog/pre-listing-inspection-why-sellers-need-one">pre-listing inspection</a> lets you handle all of this proactively instead of reactively, entirely on your own timeline rather than the buyer's rushed one.</p>`
     },
     {
       h2: "Key takeaways",
@@ -927,7 +927,7 @@ module.exports = [
     },
     {
       h2: "Option 4: Accept and move forward",
-      html: `<p>Sometimes the right answer is simply proceeding as-is, especially in a competitive market where re-negotiating risks losing the home entirely, or when the findings are manageable and were already roughly priced into your initial offer. There's no universally correct answer here — it genuinely depends on the specific finding, the current market, and your own risk tolerance as a buyer. See our companion guide on <a href="/blog/can-you-negotiate-repairs-after-home-inspection-indiana.html">negotiating repairs after an Indiana home inspection</a> for how these conversations typically play out in practice.</p>`
+      html: `<p>Sometimes the right answer is simply proceeding as-is, especially in a competitive market where re-negotiating risks losing the home entirely, or when the findings are manageable and were already roughly priced into your initial offer. There's no universally correct answer here — it genuinely depends on the specific finding, the current market, and your own risk tolerance as a buyer. See our companion guide on <a href="/blog/can-you-negotiate-repairs-after-home-inspection-indiana">negotiating repairs after an Indiana home inspection</a> for how these conversations typically play out in practice.</p>`
     },
     {
       h2: "Key takeaways",
@@ -973,7 +973,7 @@ module.exports = [
     },
     {
       h2: "Document everything",
-      html: `<p>Whatever you ultimately negotiate, get it in writing as a formal addendum to the purchase agreement — verbal agreements between agents don't hold up well if something falls through before closing day arrives. If repairs are agreed to rather than a credit, request receipts or a completion walkthrough before closing whenever it's realistically possible to schedule one. For the bigger picture on how to respond to a rough report overall, see our guide on <a href="/blog/what-happens-after-a-bad-home-inspection-report.html">what happens after a bad inspection report</a>.</p>`
+      html: `<p>Whatever you ultimately negotiate, get it in writing as a formal addendum to the purchase agreement — verbal agreements between agents don't hold up well if something falls through before closing day arrives. If repairs are agreed to rather than a credit, request receipts or a completion walkthrough before closing whenever it's realistically possible to schedule one. For the bigger picture on how to respond to a rough report overall, see our guide on <a href="/blog/what-happens-after-a-bad-home-inspection-report">what happens after a bad inspection report</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1018,7 +1018,7 @@ module.exports = [
     },
     {
       h2: "After the report",
-      html: `<p>Talk through the findings with your real estate agent to decide whether to request repairs, negotiate a credit, or proceed as-is — see our guide on <a href="/blog/what-happens-after-a-bad-home-inspection-report.html">what happens after a bad inspection report</a> for how that decision typically plays out for buyers in your position. Whatever you ultimately decide, keep the full report on file; it's a genuinely useful record of the home's exact condition at purchase if anything comes up unexpectedly down the road.</p>`
+      html: `<p>Talk through the findings with your real estate agent to decide whether to request repairs, negotiate a credit, or proceed as-is — see our guide on <a href="/blog/what-happens-after-a-bad-home-inspection-report">what happens after a bad inspection report</a> for how that decision typically plays out for buyers in your position. Whatever you ultimately decide, keep the full report on file; it's a genuinely useful record of the home's exact condition at purchase if anything comes up unexpectedly down the road.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1070,7 +1070,7 @@ module.exports = [
     },
     {
       h2: "Use both, in the right order",
-      html: `<p>Do a DIY walkthrough before you even make an offer on a home — it's free, it's fast, and it can rule out homes that clearly aren't a fit before you spend any money. Once you're under contract, a professional inspection covers everything above and gives you a documented, photo-backed report to actually negotiate from. See our related guide on whether <a href="/blog/should-you-ever-waive-a-home-inspection.html">waiving an inspection</a> entirely is ever worth it in a competitive market.</p>`
+      html: `<p>Do a DIY walkthrough before you even make an offer on a home — it's free, it's fast, and it can rule out homes that clearly aren't a fit before you spend any money. Once you're under contract, a professional inspection covers everything above and gives you a documented, photo-backed report to actually negotiate from. See our related guide on whether <a href="/blog/should-you-ever-waive-a-home-inspection">waiving an inspection</a> entirely is ever worth it in a competitive market.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1115,7 +1115,7 @@ module.exports = [
     },
     {
       h2: "Our honest take",
-      html: `<p>We understand the competitive pressure buyers are under right now, but we don't recommend waiving the inspection entirely on a typical resale purchase. A pass/fail or shortened-window structure gets you most of the competitive benefit without exposing you to a potential five- or six-figure surprise after closing. If you do decide to waive it for informational purposes only, at minimum get a <a href="/blog/diy-home-inspection-checklist-vs-professional.html">DIY walkthrough</a> plus a professional inspection scheduled fast enough to still genuinely inform your decision before you're locked in.</p>`
+      html: `<p>We understand the competitive pressure buyers are under right now, but we don't recommend waiving the inspection entirely on a typical resale purchase. A pass/fail or shortened-window structure gets you most of the competitive benefit without exposing you to a potential five- or six-figure surprise after closing. If you do decide to waive it for informational purposes only, at minimum get a <a href="/blog/diy-home-inspection-checklist-vs-professional">DIY walkthrough</a> plus a professional inspection scheduled fast enough to still genuinely inform your decision before you're locked in.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1161,7 +1161,7 @@ module.exports = [
     },
     {
       h2: "Scaling across a portfolio",
-      html: `<p>If you manage multiple properties across Indianapolis, Fishers, or Greenwood, standardizing your inspection schedule and using the same inspector consistently makes year-over-year comparisons much more useful — you'll notice patterns, like a property that keeps needing repeat HVAC service, far faster than you would with a rotating cast of different inspectors. See our related guide on <a href="/blog/how-often-should-landlords-inspect-rental-properties.html">inspection frequency for rental properties</a> for a suggested schedule.</p>`
+      html: `<p>If you manage multiple properties across Indianapolis, Fishers, or Greenwood, standardizing your inspection schedule and using the same inspector consistently makes year-over-year comparisons much more useful — you'll notice patterns, like a property that keeps needing repeat HVAC service, far faster than you would with a rotating cast of different inspectors. See our related guide on <a href="/blog/how-often-should-landlords-inspect-rental-properties">inspection frequency for rental properties</a> for a suggested schedule.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1208,7 +1208,7 @@ module.exports = [
     },
     {
       h2: "Where a full professional inspection adds the most value",
-      html: `<p>Light walkthroughs are good for surface-level maintenance and general lease compliance, but they won't reliably catch a slowly failing sewer line, early-stage HVAC degradation, or moisture intrusion happening inside a wall cavity. Budgeting for a full professional inspection at every turnover, not just a quick walkthrough, is the difference between catching a $300 fix early and discovering a $10,000 one much later. See our full <a href="/blog/home-inspection-checklist-for-landlords.html">landlord inspection checklist</a> for exactly what to prioritize at each stage.</p>`
+      html: `<p>Light walkthroughs are good for surface-level maintenance and general lease compliance, but they won't reliably catch a slowly failing sewer line, early-stage HVAC degradation, or moisture intrusion happening inside a wall cavity. Budgeting for a full professional inspection at every turnover, not just a quick walkthrough, is the difference between catching a $300 fix early and discovering a $10,000 one much later. See our full <a href="/blog/home-inspection-checklist-for-landlords">landlord inspection checklist</a> for exactly what to prioritize at each stage.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1255,7 +1255,7 @@ module.exports = [
     },
     {
       h2: "Know your deal-breakers before you're under contract",
-      html: `<p>Decide in advance what would genuinely kill a deal for you — significant foundation movement, a sewer line requiring full replacement, knob-and-tube wiring running throughout the whole house — so you're not making that call emotionally in the middle of a tight closing timeline with other pressures competing for your attention. For portfolio or multi-unit acquisitions specifically, see our companion <a href="/blog/multi-family-property-inspection-guide.html">multi-family inspection guide</a> for what changes at that scale.</p>`
+      html: `<p>Decide in advance what would genuinely kill a deal for you — significant foundation movement, a sewer line requiring full replacement, knob-and-tube wiring running throughout the whole house — so you're not making that call emotionally in the middle of a tight closing timeline with other pressures competing for your attention. For portfolio or multi-unit acquisitions specifically, see our companion <a href="/blog/multi-family-property-inspection-guide">multi-family inspection guide</a> for what changes at that scale.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1301,7 +1301,7 @@ module.exports = [
     },
     {
       h2: "Occupied units require coordination",
-      html: `<p>If some or all units are currently tenant-occupied, plan ahead for advance notice and scheduling coordination — Indiana's reasonable notice expectations for landlord entry apply here just as they would for a routine inspection of an occupied single-family rental. Building this coordination time into your due diligence timeline up front avoids a rushed, incomplete inspection later when access turns out to be harder to arrange than expected. See our broader <a href="/blog/pre-purchase-inspection-guide-for-real-estate-investors.html">investor pre-purchase guide</a> for how to prioritize findings once the full report is finally in hand.</p>`
+      html: `<p>If some or all units are currently tenant-occupied, plan ahead for advance notice and scheduling coordination — Indiana's reasonable notice expectations for landlord entry apply here just as they would for a routine inspection of an occupied single-family rental. Building this coordination time into your due diligence timeline up front avoids a rushed, incomplete inspection later when access turns out to be harder to arrange than expected. See our broader <a href="/blog/pre-purchase-inspection-guide-for-real-estate-investors">investor pre-purchase guide</a> for how to prioritize findings once the full report is finally in hand.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1346,7 +1346,7 @@ module.exports = [
     },
     {
       h2: "Prevention matters more than repair here",
-      html: `<p>Grading that slopes properly away from the foundation, functioning gutters and downspouts extended well away from the house, and a properly sized, regularly tested sump pump are the three cheapest and most effective defenses available against the moisture problems Indiana clay soil consistently creates for homeowners. For a full seasonal checklist that covers these exact preventive steps in the right order, see our <a href="/blog/spring-home-maintenance-checklist-indianapolis.html">spring maintenance guide</a>.</p>`
+      html: `<p>Grading that slopes properly away from the foundation, functioning gutters and downspouts extended well away from the house, and a properly sized, regularly tested sump pump are the three cheapest and most effective defenses available against the moisture problems Indiana clay soil consistently creates for homeowners. For a full seasonal checklist that covers these exact preventive steps in the right order, see our <a href="/blog/spring-home-maintenance-checklist-indianapolis">spring maintenance guide</a>.</p>`
     },
     {
       h2: "Key takeaways",
@@ -1391,7 +1391,7 @@ module.exports = [
     },
     {
       h2: "9–10. Water heater age and minor plumbing leaks",
-      html: `<p>Water heaters typically last 8–12 years in normal use, and we regularly find units well past that range still in active service, sometimes by a decade or more. Minor supply or drain leaks under sinks — often just a loose fitting or worn washer — are also a near-constant finding across almost every inspection, easy to fix on the spot but worth catching early before they cause real cabinet or subfloor damage over time. For the full picture of what a standard inspection covers beyond just these top ten patterns, see our <a href="/blog/what-does-a-home-inspection-cover.html">inspection scope guide</a>.</p>`
+      html: `<p>Water heaters typically last 8–12 years in normal use, and we regularly find units well past that range still in active service, sometimes by a decade or more. Minor supply or drain leaks under sinks — often just a loose fitting or worn washer — are also a near-constant finding across almost every inspection, easy to fix on the spot but worth catching early before they cause real cabinet or subfloor damage over time. For the full picture of what a standard inspection covers beyond just these top ten patterns, see our <a href="/blog/what-does-a-home-inspection-cover">inspection scope guide</a>.</p>`
     },
     {
       h2: "Key takeaways",

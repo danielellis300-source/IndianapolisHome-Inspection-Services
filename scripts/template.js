@@ -160,7 +160,7 @@ function renderRelatedPosts(article, articlesBySlug) {
   const cards = article.relatedSlugs
     .map(slug => articlesBySlug.get(slug))
     .filter(Boolean)
-    .map(a => `<a href="/blog/${a.slug}.html" class="related-card">${escapeHtml(a.title)}</a>`)
+    .map(a => `<a href="/blog/${a.slug}" class="related-card">${escapeHtml(a.title)}</a>`)
     .join('\n        ');
   return `      <div class="related-posts">
         <h3>Related Articles</h3>
@@ -185,7 +185,7 @@ function renderArticleBody(article, articlesBySlug) {
 function renderArticlePage(article, articlesBySlug) {
   const readTime = readTimeFor(article);
   const dateDisplay = formatDate(article.date);
-  const canonicalPath = `/blog/${article.slug}.html`;
+  const canonicalPath = `/blog/${article.slug}`;
 
   const blogPostingSchema = {
     "@context": "https://schema.org",
@@ -283,7 +283,7 @@ function renderBlogIndexPage(articles) {
   const sorted = [...articles].sort((a, b) => (a.date < b.date ? 1 : -1));
   const cards = sorted.map(a => {
     const readTime = readTimeFor(a);
-    return `        <a href="/blog/${a.slug}.html" class="blog-card">
+    return `        <a href="/blog/${a.slug}" class="blog-card">
           <span class="blog-card-cat">${escapeHtml(a.category)}</span>
           <h2>${escapeHtml(a.title)}</h2>
           <p>${escapeHtml(a.metaDescription)}</p>

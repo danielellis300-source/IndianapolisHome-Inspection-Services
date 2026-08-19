@@ -74,13 +74,32 @@ Sitemap: ${config.domain}/sitemap.xml
   writeFile(robotsPath, content);
 }
 
+// Cloudflare Pages auto-redirects `/page.html` -> `/page` with a 307
+// (temporary) status, which does not tell Google to consolidate ranking
+// signal onto the clean URL. Search Console confirms both variants stay
+// independently indexed as a result. An explicit _redirects rule with a
+// 301 (permanent) status overrides Cloudflare's automatic behavior.
+function generateRedirects() {
+  const lines = ['/index.html / 301'];
+
+  config.cities
+    .filter(c => c.file !== '/')
+    .forEach(c => lines.push(`${c.file}.html ${c.file} 301`));
+
+  articles.forEach(a => lines.push(`/blog/${a.slug}.html /blog/${a.slug} 301`));
+  lines.push('/blog/index.html /blog/ 301');
+
+  writeFile(path.join(ROOT, '_redirects'), lines.join('\n') + '\n');
+}
+
 function main() {
   if (!fs.existsSync(BLOG_DIR)) fs.mkdirSync(BLOG_DIR, { recursive: true });
   generateArticles();
   generateBlogIndex();
   generateSitemap();
   generateRobots();
-  console.log(`\nDone. Generated ${articles.length} articles + blog index + sitemap.xml + robots.txt.`);
+  generateRedirects();
+  console.log(`\nDone. Generated ${articles.length} articles + blog index + sitemap.xml + robots.txt + _redirects.`);
 }
 
 main();

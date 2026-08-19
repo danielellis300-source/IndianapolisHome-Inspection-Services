@@ -14,7 +14,7 @@ module.exports = [
   metaTitle: "Home Inspection Cost in Indianapolis 2026 | Price Guide",
   metaDescription: "See real 2026 home inspection prices for Indianapolis and Marion County — by home size, add-on tests, and what actually drives the cost up or down.",
   category: "Pricing",
-  date: "2026-01-05",
+  date: "2026-07-23",
   relatedSlugs: ["home-inspection-cost-by-square-footage", "what-does-a-home-inspection-cover", "how-to-choose-a-home-inspector-in-indianapolis"],
   intro: `<p>If you're buying a home in Indianapolis, the inspection is one of the smallest line items on your closing statement — and one of the highest-leverage. A $350 inspection can surface $15,000 in deferred roof or HVAC repairs before you're legally on the hook for them. Here's what inspections actually cost across the Indianapolis metro right now, what's included, and what moves the price up or down.</p>`,
   sections: [
@@ -68,7 +68,7 @@ module.exports = [
   metaTitle: "Home Inspection Cost by Square Footage | Indianapolis",
   metaDescription: "A size-by-size breakdown of home inspection pricing in Indianapolis — from 800 sq ft condos to 4,000+ sq ft homes in Carmel and Zionsville.",
   category: "Pricing",
-  date: "2026-01-11",
+  date: "2026-07-23",
   relatedSlugs: ["home-inspection-cost-indianapolis", "new-construction-inspection-cost-indianapolis", "first-time-home-buyer-inspection-guide-indianapolis"],
   intro: `<p>Square footage is the single biggest driver of home inspection pricing — more than location, more than age, more than the number of bathrooms. Time on site scales with the amount of house there is to walk, photograph, and test, and most Indianapolis inspectors price accordingly. Here's roughly what to expect at each size tier in the local market, so you can budget accurately before you request a quote.</p>`,
   sections: [
@@ -114,7 +114,7 @@ module.exports = [
   metaTitle: "Radon Testing Cost in Indianapolis | What to Expect",
   metaDescription: "Radon test pricing, how the 48-hour test works, and why most of Marion and Hamilton County falls in EPA Radon Zone 1.",
   category: "Pricing",
-  date: "2026-01-17",
+  date: "2026-07-23",
   relatedSlugs: ["radon-levels-indiana-do-i-need-a-test", "home-inspection-cost-indianapolis", "what-does-a-home-inspection-cover"],
   intro: `<p>Radon is invisible, odorless, and the second-leading cause of lung cancer in the U.S. after smoking — and most of central Indiana sits in an EPA zone where elevated levels are common. Here's what a radon test actually costs in Indianapolis, how the process works, and how to make sense of the number that comes back.</p>
       <p>Radon almost always comes up during a real estate transaction rather than as a routine homeowner check-in, which means the test has to be scheduled and completed inside an already tight inspection contingency window. Building it into your very first inspection appointment, rather than as an afterthought once results from the rest of the report come back, keeps your timeline intact.</p>`,
@@ -160,7 +160,7 @@ module.exports = [
   metaTitle: "Sewer Scope Inspection Cost Indianapolis | Worth It?",
   metaDescription: "What a sewer scope inspection costs in Indianapolis, why older neighborhoods need one most, and what a cracked or root-choked line actually costs to fix.",
   category: "Pricing",
-  date: "2026-01-23",
+  date: "2026-07-23",
   relatedSlugs: ["home-inspection-cost-indianapolis", "common-issues-found-in-indianapolis-home-inspections", "what-does-a-home-inspection-cover"],
   intro: `<p>A sewer scope is the one add-on inspection that regularly pays for itself twenty times over. For $125–$225, it can catch a problem that costs $8,000–$15,000 to fix after closing — and it's one of the few inspections a general home inspector cannot substitute for with a visual walkthrough, because the entire line is buried and invisible from above ground.</p>`,
   sections: [
@@ -204,7 +204,7 @@ module.exports = [
   metaTitle: "Mold Inspection Cost in Indianapolis | Pricing Guide",
   metaDescription: "What mold testing costs in Indianapolis, when a visual assessment is enough versus lab sampling, and how humidity and basements factor in.",
   category: "Pricing",
-  date: "2026-01-29",
+  date: "2026-07-23",
   relatedSlugs: ["crawl-space-basement-inspection-guide-indianapolis", "summer-home-maintenance-tips-indiana-humidity", "home-inspection-cost-indianapolis"],
   intro: `<p>Mold inspection pricing in Indianapolis varies more than almost any other add-on service, because "mold inspection" can mean anything from a quick visual assessment to full lab-sampled air and surface testing. Here's how to know what you actually need — and what each option should cost — before you agree to anything.</p>
       <p>Mold questions come up constantly during both buying and selling season in Indianapolis, especially on homes with older basements or a documented history of water intrusion. Knowing the difference between the two testing tiers before you're standing in a musty basement mid-negotiation puts you in a much stronger position to make a fast, informed decision.</p>`,
@@ -249,7 +249,7 @@ module.exports = [
   metaTitle: "New Construction Inspection Cost | Indianapolis",
   metaDescription: "What a new construction inspection costs in Indianapolis, the phases worth inspecting, and why a builder's own inspector isn't enough.",
   category: "Pricing",
-  date: "2026-02-04",
+  date: "2026-07-23",
   relatedSlugs: ["home-inspection-cost-indianapolis", "what-does-a-home-inspection-cover", "common-issues-found-in-indianapolis-home-inspections"],
   intro: `<p>New doesn't mean flawless. With Indianapolis suburbs like Westfield, Fishers, and Whitestown adding new subdivisions every year, we inspect newly built homes constantly — and defects are far more common than most buyers expect from a house nobody has ever lived in.</p>
       <p>It's an easy trap to assume a brand-new home from a reputable builder doesn't need the same scrutiny as a resale property, especially when the builder's own team is already doing walkthroughs. In practice, new construction defects are often just as costly as resale issues — they're simply less expected, which makes catching them early even more valuable.</p>`,
@@ -295,7 +295,7 @@ module.exports = [
   metaTitle: "Indiana Seller Disclosure Law Explained | IN Home Sales",
   metaDescription: "What Indiana Code 32-21-5 actually requires sellers to disclose, what's exempt, and how it interacts with your home inspection.",
   category: "Indiana Regulations",
-  date: "2026-02-10",
+  date: "2026-07-23",
   relatedSlugs: ["pre-listing-inspection-why-sellers-need-one", "how-to-prepare-your-home-for-inspection", "what-happens-after-a-bad-home-inspection-report"],
   intro: `<p>Indiana requires most residential sellers to fill out a formal disclosure form before a sale closes — but the law has real limits, and misunderstanding those limits is one of the most common sources of post-closing disputes we see between buyers and sellers. Here's what it actually covers, and what it doesn't.</p>`,
   sections: [
@@ -339,7 +339,7 @@ module.exports = [
   metaTitle: "Radon Levels in Indiana | Do You Need a Test?",
   metaDescription: "Why most of central Indiana falls in EPA Radon Zone 1, what that means for buyers, and whether a radon test is truly necessary.",
   category: "Indiana Regulations",
-  date: "2026-02-16",
+  date: "2026-07-23",
   relatedSlugs: ["radon-testing-cost-indianapolis", "indiana-seller-disclosure-law", "first-time-home-buyer-inspection-guide-indianapolis"],
   intro: `<p>Unlike some states, Indiana doesn't legally require a radon test as part of a home sale. That leaves the decision entirely up to the buyer — and given the geology of central Indiana, it's a decision worth making deliberately rather than skipping just to save $150 on your inspection invoice.</p>
       <p>Because testing is optional rather than mandatory, the decision often gets made by default — buyers simply don't think to ask, and sellers have no legal obligation to bring it up first. That default matters a lot in a Zone 1 state, since silence on the topic doesn't mean the risk isn't there.</p>`,
@@ -384,7 +384,7 @@ module.exports = [
   metaTitle: "Marion County Home Inspection Guide | Local Housing Stock",
   metaDescription: "What Marion County's older housing stock means for buyers — aluminum wiring, galvanized plumbing, and what to expect based on the decade your home was built.",
   category: "Indiana Regulations",
-  date: "2026-02-22",
+  date: "2026-07-23",
   relatedSlugs: ["common-issues-found-in-indianapolis-home-inspections", "sewer-scope-inspection-cost-indianapolis", "first-time-home-buyer-inspection-guide-indianapolis"],
   intro: `<p>Marion County's housing stock spans well over a century, from early-1900s bungalows in Irvington to brand-new infill construction downtown. The decade a home was built tells an inspector — and should tell you — a lot about what to expect before you ever walk through the door for a showing.</p>
       <p>This isn't just trivia — knowing what era-specific issues to expect changes how you shop. A buyer eyeing a 1968 ranch in Broad Ripple should be asking different questions than a buyer touring a 2022 build in Westfield, even if both homes look equally well maintained on a showing.</p>`,
@@ -429,7 +429,7 @@ module.exports = [
   metaTitle: "Indiana Home Inspector Licensing Explained",
   metaDescription: "Indiana doesn't require a state home inspector license. Here's what credentials, certifications, and insurance actually matter when hiring one.",
   category: "Indiana Regulations",
-  date: "2026-02-28",
+  date: "2026-07-23",
   relatedSlugs: ["how-to-choose-a-home-inspector-in-indianapolis", "questions-to-ask-a-home-inspector-before-hiring", "home-inspection-cost-indianapolis"],
   intro: `<p>Unlike states such as Texas or Illinois, Indiana does not currently require home inspectors to hold a specific state-issued license. That surprises a lot of buyers when they first hear it — and it means the burden of vetting an inspector's actual qualifications falls more heavily on you than it would in a licensed state where a baseline is set for everyone.</p>
       <p>This gap surprises even experienced buyers who've purchased homes in other states and assumed licensing worked the same way everywhere. It doesn't, and understanding that difference up front changes how you should be vetting an inspector before you ever hand over a deposit.</p>`,
@@ -474,7 +474,7 @@ module.exports = [
   metaTitle: "How to Choose a Home Inspector in Indianapolis",
   metaDescription: "Seven red flags to watch for when hiring a home inspector in Indianapolis, from missing insurance to reports without photos.",
   category: "Choosing an Inspector",
-  date: "2026-03-06",
+  date: "2026-07-23",
   relatedSlugs: ["indiana-home-inspector-licensing-explained", "questions-to-ask-a-home-inspector-before-hiring", "home-inspection-cost-indianapolis"],
   intro: `<p>Since Indiana doesn't license home inspectors, the quality gap between a great inspector and a mediocre one can be wide — and you're the one responsible for telling the difference before you're the one holding the report. Here are the seven warning signs we tell every Indianapolis buyer to watch for.</p>`,
   sections: [
@@ -520,7 +520,7 @@ module.exports = [
   metaTitle: "12 Questions to Ask a Home Inspector Before Hiring",
   metaDescription: "The exact questions Indianapolis buyers should ask before booking a home inspector — coverage, insurance, report format, and more.",
   category: "Choosing an Inspector",
-  date: "2026-03-12",
+  date: "2026-07-23",
   relatedSlugs: ["how-to-choose-a-home-inspector-in-indianapolis", "indiana-home-inspector-licensing-explained", "what-does-a-home-inspection-cover"],
   intro: `<p>A five-minute phone call before booking can tell you almost everything you need to know about an inspector, often more than an hour of reading online reviews. Here are the questions worth asking, organized by topic, and what a good answer actually sounds like.</p>
       <p>Most buyers only think to ask about price, and maybe availability, before booking — everything else gets assumed. Taking five extra minutes to run through this list before you commit can be the difference between a report you can actually use to negotiate and one that just checks a box on your closing timeline.</p>`,
@@ -581,7 +581,7 @@ module.exports = [
   metaTitle: "What Does a Home Inspection Cover? | Full Checklist",
   metaDescription: "A room-by-room, system-by-system breakdown of what's included in a standard Indianapolis home inspection — and what's not.",
   category: "Home Systems",
-  date: "2026-03-18",
+  date: "2026-07-23",
   relatedSlugs: ["home-inspection-cost-indianapolis", "questions-to-ask-a-home-inspector-before-hiring", "common-issues-found-in-indianapolis-home-inspections"],
   intro: `<p>"Full home inspection" gets used loosely across the industry, and it's worth knowing exactly what's covered before you're standing in a driveway afterward wondering why the pool or the detached shed wasn't checked. Here's the standard scope for a full inspection in the Indianapolis market, system by system.</p>
       <p>Knowing the scope in advance also helps you decide which add-ons are worth requesting for your specific property — a home with a crawl space and an older sewer line has very different priorities than a slab-on-grade home built in the last decade.</p>`,
@@ -627,7 +627,7 @@ module.exports = [
   metaTitle: "Spring Home Maintenance Checklist | Indianapolis",
   metaDescription: "A practical spring maintenance checklist for Indianapolis homeowners — gutters, grading, HVAC, roof, and sump pumps after a Midwest winter.",
   category: "Seasonal Maintenance",
-  date: "2026-03-24",
+  date: "2026-07-23",
   relatedSlugs: ["fall-home-maintenance-checklist-indiana-winter", "crawl-space-basement-inspection-guide-indianapolis", "common-issues-found-in-indianapolis-home-inspections"],
   intro: `<p>Indianapolis winters are hard on a house — freeze-thaw cycles, ice, and heavy spring rain all stress a home in ways that aren't always obvious until they show up as a bigger and more expensive repair later in the year. Here's what to check every spring before the busy season gets away from you.</p>
       <p>None of these tasks require special tools or a contractor — most can be done in a single weekend. The payoff is catching small, cheap problems while they're still small and cheap, rather than finding them during a stressful pre-listing inspection a few years down the road.</p>`,
@@ -672,7 +672,7 @@ module.exports = [
   metaTitle: "Fall Home Maintenance Checklist | Indianapolis Winter Prep",
   metaDescription: "Everything Indianapolis homeowners should check before winter — furnace service, gutters, pipe insulation, and roof prep for freezing temps.",
   category: "Seasonal Maintenance",
-  date: "2026-03-30",
+  date: "2026-07-23",
   relatedSlugs: ["winterizing-your-indianapolis-home", "spring-home-maintenance-checklist-indianapolis", "common-issues-found-in-indianapolis-home-inspections"],
   intro: `<p>Indiana winters swing hard — single-digit nights, ice storms, and enough freeze-thaw cycling to find every weak point in a home's exterior within a single season. Fall is when to get ahead of it, while the weather still makes outdoor work realistic to schedule and complete.</p>
       <p>Most of what follows takes a single weekend to complete, and none of it requires specialized tools beyond a ladder and a garden hose. The goal isn't perfection — it's simply catching the handful of issues that turn into real emergencies once temperatures drop and stay there.</p>
@@ -719,7 +719,7 @@ module.exports = [
   metaTitle: "Winterizing Your Indianapolis Home | Room-by-Room Guide",
   metaDescription: "A detailed room-by-room winterizing checklist for Indianapolis homes, covering pipes, attic insulation, HVAC, and the basement.",
   category: "Seasonal Maintenance",
-  date: "2026-04-05",
+  date: "2026-07-23",
   relatedSlugs: ["fall-home-maintenance-checklist-indiana-winter", "spring-home-maintenance-checklist-indianapolis", "crawl-space-basement-inspection-guide-indianapolis"],
   intro: `<p>Winterizing isn't one task — it's a dozen small ones spread across every part of the house, easy to miss if you're only thinking about the furnace. Here's a room-by-room pass to make sure nothing gets overlooked before Indiana's coldest months arrive in full force.</p>
       <p>Unlike the broader fall maintenance checklist, this list focuses specifically on preventing frozen pipes and heat loss room by room, which is where most winter emergency calls actually originate. A weekend spent working through it room by room is cheap insurance against a burst pipe in January.</p>
@@ -765,7 +765,7 @@ module.exports = [
   metaTitle: "Summer Home Maintenance Indiana | Humidity & HVAC",
   metaDescription: "How Indianapolis homeowners can manage summer humidity, prevent mold, and keep HVAC systems running efficiently through Indiana's hot, humid summers.",
   category: "Seasonal Maintenance",
-  date: "2026-04-11",
+  date: "2026-07-23",
   relatedSlugs: ["mold-inspection-cost-indianapolis", "crawl-space-basement-inspection-guide-indianapolis", "spring-home-maintenance-checklist-indianapolis"],
   intro: `<p>Indiana summers bring a specific combination of heat and humidity that stresses HVAC systems and creates ideal conditions for mold growth in basements and crawl spaces. A little attention in June saves a lot of trouble, and a lot of money, by the time August rolls around.</p>
       <p>Unlike winter maintenance, which is mostly about preventing a single catastrophic failure like a burst pipe, summer maintenance in Indiana is more about managing an ongoing condition — humidity — before it slowly turns into a mold or HVAC problem that's much more expensive to reverse than to prevent.</p>
@@ -811,7 +811,7 @@ module.exports = [
   metaTitle: "Pre-Listing Inspection Indianapolis | Why Sellers Do It",
   metaDescription: "Why a pre-listing inspection helps Indianapolis sellers price accurately, avoid renegotiation, and close faster.",
   category: "Selling a Home",
-  date: "2026-04-17",
+  date: "2026-07-23",
   relatedSlugs: ["how-to-prepare-your-home-for-inspection", "indiana-seller-disclosure-law", "what-happens-after-a-bad-home-inspection-report"],
   intro: `<p>A pre-listing inspection flips the usual order of operations: instead of finding out about problems from the buyer's inspector in the middle of a negotiation, you find out first — on your own terms, before the home is even on the market for anyone to see.</p>
       <p>It's a growing trend in the Indianapolis market specifically, where competitive pricing and fast closings have made sellers increasingly interested in anything that reduces the odds of a deal falling apart 30 days into escrow over a finding nobody saw coming.</p>
@@ -858,7 +858,7 @@ module.exports = [
   metaTitle: "How to Prepare Your Home for an Inspection | Sellers",
   metaDescription: "A practical checklist for Indianapolis sellers to prepare for a buyer's home inspection — access, utilities, and easy wins that avoid unnecessary flags.",
   category: "Selling a Home",
-  date: "2026-04-23",
+  date: "2026-07-23",
   relatedSlugs: ["pre-listing-inspection-why-sellers-need-one", "indiana-seller-disclosure-law", "what-happens-after-a-bad-home-inspection-report"],
   intro: `<p>You can't, and shouldn't try to, hide a real problem from a buyer's inspector — but you can absolutely make sure your home doesn't get flagged for things that were never actually wrong in the first place. Here's what to do in the days before inspection day.</p>
       <p>None of this requires a contractor or a big budget — most of it is a single afternoon of walking the house with a checklist. The goal is simple: make sure the inspector's time goes toward documenting real conditions, not working around access problems you could have solved in five minutes.</p>
@@ -904,7 +904,7 @@ module.exports = [
   metaTitle: "What Happens After a Bad Home Inspection Report?",
   metaDescription: "Your options as an Indianapolis buyer after a rough inspection report — repair requests, price renegotiation, or walking away.",
   category: "Buying a Home",
-  date: "2026-04-29",
+  date: "2026-07-23",
   relatedSlugs: ["can-you-negotiate-repairs-after-home-inspection-indiana", "indiana-seller-disclosure-law", "first-time-home-buyer-inspection-guide-indianapolis"],
   intro: `<p>A long list of findings on an inspection report can feel alarming, especially for a first-time buyer seeing one for the first time — but most reports have more items than most buyers expect, and that's genuinely normal. Here's how to actually respond, and what your real options are once the report is in hand.</p>
       <p>It helps to remember that every home, including the one you're currently living in, would generate a long list of findings if inspected today. The question was never whether a report would have items on it — it's whether any of those items are serious enough to change your decision.</p>`,
@@ -949,7 +949,7 @@ module.exports = [
   metaTitle: "Negotiating Repairs After a Home Inspection | Indiana",
   metaDescription: "How repair negotiations actually work after a home inspection in Indiana, what's realistic to ask for, and what sellers typically agree to.",
   category: "Buying a Home",
-  date: "2026-05-05",
+  date: "2026-07-23",
   relatedSlugs: ["what-happens-after-a-bad-home-inspection-report", "indiana-seller-disclosure-law", "first-time-home-buyer-inspection-guide-indianapolis"],
   intro: `<p>Yes — but "can you" and "should you" are genuinely different questions, and how you ask matters almost as much as what you ask for. Here's how repair negotiations typically play out in practice across the Indianapolis market.</p>
       <p>The tone of the request matters almost as much as the substance. A repair request framed as a reasonable, well-documented ask tends to get a better response from a seller than one that reads like a list of demands, even when the underlying items are identical.</p>
@@ -995,7 +995,7 @@ module.exports = [
   metaTitle: "First-Time Home Buyer Inspection Guide | Indianapolis",
   metaDescription: "Everything a first-time buyer in Indianapolis needs to know about scheduling, attending, and interpreting a home inspection.",
   category: "Buying a Home",
-  date: "2026-05-11",
+  date: "2026-07-23",
   relatedSlugs: ["what-does-a-home-inspection-cover", "what-happens-after-a-bad-home-inspection-report", "home-inspection-cost-indianapolis"],
   intro: `<p>If this is your first time buying a home, the inspection can feel like the most opaque part of the entire process — a stranger walks through your future home for a few hours and hands you a report full of terms you've never heard before. Here's a plain-language walkthrough of what to actually expect, from booking to closing day.</p>
       <p>It's normal to feel a little overwhelmed the first time through this process — every buyer does. Knowing roughly what to expect at each stage, from booking to reading the final report, takes a lot of the anxiety out of what can otherwise feel like a black box.</p>`,
@@ -1040,7 +1040,7 @@ module.exports = [
   metaTitle: "DIY Home Inspection Checklist | What You Can Catch",
   metaDescription: "A realistic DIY pre-inspection checklist for Indianapolis buyers and sellers — and where a professional inspection is genuinely necessary.",
   category: "DIY vs Professional",
-  date: "2026-05-17",
+  date: "2026-07-23",
   relatedSlugs: ["should-you-ever-waive-a-home-inspection", "how-to-prepare-your-home-for-inspection", "what-does-a-home-inspection-cover"],
   intro: `<p>Walking a home yourself before making an offer, or before listing it for sale, is genuinely useful — it's just not a substitute for a professional inspection, no matter how careful you are. Here's a realistic, honest breakdown of what a careful walkthrough can and can't actually tell you.</p>
       <p>This isn't about distrust of professional inspectors — it's about using your own time efficiently. A quick walkthrough before writing an offer can save you from wasting an inspection fee on a home with an obvious dealbreaker, while still leaving the deeper diagnostic work to someone with the right training and tools.</p>`,
@@ -1092,7 +1092,7 @@ module.exports = [
   metaTitle: "Should You Waive a Home Inspection? | Indianapolis",
   metaDescription: "The real risks of waiving a home inspection to win a bidding war in Indianapolis, and lower-risk alternatives that still make your offer competitive.",
   category: "DIY vs Professional",
-  date: "2026-05-23",
+  date: "2026-07-23",
   relatedSlugs: ["diy-home-inspection-checklist-vs-professional", "what-happens-after-a-bad-home-inspection-report", "first-time-home-buyer-inspection-guide-indianapolis"],
   intro: `<p>In a competitive bidding situation, waiving the inspection contingency can feel like the tiebreaker that finally wins you the house. It's also the single riskiest concession a buyer can realistically make — here's a clearer-eyed look at when it's a reasonable risk to take and when it genuinely isn't.</p>
       <p>We get asked about this constantly during busy spring and summer buying seasons, when multiple-offer situations become common across the metro. The honest answer is rarely as simple as buyers want it to be, which is exactly why it's worth working through the tradeoffs before you're mid-negotiation and under pressure to decide fast.</p>`,
@@ -1137,7 +1137,7 @@ module.exports = [
   metaTitle: "Landlord Inspection Checklist | Indianapolis Rentals",
   metaDescription: "What Indianapolis landlords and property managers should check between tenants and at acquisition to protect a rental property investment.",
   category: "Landlords & Investors",
-  date: "2026-05-29",
+  date: "2026-07-23",
   relatedSlugs: ["how-often-should-landlords-inspect-rental-properties", "pre-purchase-inspection-guide-for-real-estate-investors", "common-issues-found-in-indianapolis-home-inspections"],
   intro: `<p>Rental properties take a different kind of wear than owner-occupied homes, and the inspection priorities shift accordingly once a property is generating income instead of just housing its owner. Here's what we recommend Indianapolis landlords focus on, both at acquisition and in the years between tenants.</p>
       <p>The math here is straightforward: a $300–$500 inspection is a rounding error compared to a single emergency HVAC replacement or a security deposit dispute that ends up in small claims court. Treating inspections as a routine cost of doing business, rather than an optional expense, pays for itself over the life of the property.</p>
@@ -1183,7 +1183,7 @@ module.exports = [
   metaTitle: "How Often Should Landlords Inspect Rentals? | Indiana",
   metaDescription: "A practical inspection frequency schedule for Indiana landlords, balancing tenant privacy rights with proactive maintenance.",
   category: "Landlords & Investors",
-  date: "2026-06-04",
+  date: "2026-07-23",
   relatedSlugs: ["home-inspection-checklist-for-landlords", "pre-purchase-inspection-guide-for-real-estate-investors", "multi-family-property-inspection-guide"],
   intro: `<p>There's no single legally mandated inspection frequency in Indiana, which leaves the decision entirely up to the landlord — and getting the cadence right means balancing two competing goals at once: catching problems early, and respecting your tenants' right to reasonable enjoyment of the property they're renting.</p>
       <p>Getting this wrong in either direction has real costs — inspect too rarely and small problems compound into expensive ones, inspect too aggressively and you risk tenant complaints or even claims of harassment. The schedule below is a reasonable middle ground that most Indianapolis-area property managers land on after some trial and error.</p>
@@ -1230,7 +1230,7 @@ module.exports = [
   metaTitle: "Investor Pre-Purchase Inspection Guide | Indianapolis",
   metaDescription: "How real estate investors should approach pre-purchase inspections in Indianapolis — budgeting for repairs, big-ticket systems, and deal-breakers.",
   category: "Landlords & Investors",
-  date: "2026-06-10",
+  date: "2026-07-23",
   relatedSlugs: ["multi-family-property-inspection-guide", "home-inspection-checklist-for-landlords", "sewer-scope-inspection-cost-indianapolis"],
   intro: `<p>An investor's inspection priorities aren't quite the same as an owner-occupant's. You're generally less concerned with cosmetic condition and far more concerned with the systems that drive holding costs and renovation budgets over the entire life of the investment. Here's how to approach it with that lens specifically.</p>
       <p>The stakes are also different than for an owner-occupant: a missed defect on a personal home is a personal headache, but a missed defect on an investment property directly erodes your projected return and can turn a promising deal into a break-even one once real repair costs come in.</p>
@@ -1277,7 +1277,7 @@ module.exports = [
   metaTitle: "Multi-Family Property Inspection Guide | Indianapolis",
   metaDescription: "How multi-family and duplex inspections differ from single-family in Indianapolis — shared systems, per-unit scope, and pricing.",
   category: "Landlords & Investors",
-  date: "2026-06-16",
+  date: "2026-07-23",
   relatedSlugs: ["pre-purchase-inspection-guide-for-real-estate-investors", "home-inspection-checklist-for-landlords", "how-often-should-landlords-inspect-rental-properties"],
   intro: `<p>Duplexes, triplexes, and small multi-family buildings inspect quite differently than a single-family home — mainly because of shared systems and the need to evaluate multiple units consistently, unit by unit, rather than treating the whole building as one property. Here's what actually changes in scope and approach.</p>
       <p>Getting the inspection scope right up front also matters for financing — many lenders on multi-family deals want to see a professional inspection report covering both individual units and shared systems before they'll finalize loan terms, so building extra time in for this isn't just good practice, it's often a closing requirement.</p>
@@ -1323,7 +1323,7 @@ module.exports = [
   metaTitle: "Crawl Space & Basement Inspection Guide | Indianapolis",
   metaDescription: "Why Indiana's clay soil causes basement and crawl space issues, what inspectors look for, and how to catch problems early.",
   category: "Home Systems",
-  date: "2026-06-22",
+  date: "2026-07-23",
   relatedSlugs: ["mold-inspection-cost-indianapolis", "spring-home-maintenance-checklist-indianapolis", "common-issues-found-in-indianapolis-home-inspections"],
   intro: `<p>More issues trace back to the soil under an Indianapolis home than almost any other single factor we consider during an inspection. Central Indiana's clay-heavy, poorly-draining soil is directly responsible for a large share of the basement and crawl space findings we document across the metro. Here's what's actually going on underneath your house, and why it matters so much.</p>
       <p>Most homeowners never think about what's happening below the living space until there's already a visible problem — a musty smell, a damp patch on the carpet, a sagging floor. Understanding the soil dynamics at play locally helps explain why these issues are so common here specifically, and why prevention is so much cheaper than repair.</p>`,
@@ -1368,7 +1368,7 @@ module.exports = [
   metaTitle: "10 Most Common Home Inspection Issues | Indianapolis",
   metaDescription: "The ten issues that show up most often in Indianapolis home inspections, from grading and gutters to aging electrical panels.",
   category: "Local Insights",
-  date: "2026-06-28",
+  date: "2026-07-23",
   relatedSlugs: ["crawl-space-basement-inspection-guide-indianapolis", "marion-county-home-inspection-what-buyers-should-know", "home-inspection-cost-indianapolis"],
   intro: `<p>After thousands of inspections across Marion, Hamilton, Hendricks, and the surrounding counties, the same handful of issues show up again and again, regardless of neighborhood or price point. None of these are usually dealbreakers on their own — but knowing them in advance helps you set realistic expectations before your own report lands in your inbox.</p>`,
   sections: [

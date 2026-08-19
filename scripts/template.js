@@ -192,12 +192,10 @@ function renderArticlePage(article, articlesBySlug) {
     "@type": "BlogPosting",
     "headline": article.title,
     "description": article.metaDescription,
-    "image": config.logoUrl,
     "author": { "@type": "Organization", "name": config.businessName },
     "publisher": {
       "@type": "Organization",
-      "name": config.businessName,
-      "logo": { "@type": "ImageObject", "url": config.logoUrl }
+      "name": config.businessName
     },
     "datePublished": article.date,
     "dateModified": article.date,

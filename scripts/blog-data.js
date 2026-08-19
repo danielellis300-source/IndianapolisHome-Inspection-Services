@@ -354,7 +354,7 @@ module.exports = [
     },
     {
       h2: "Radon doesn't correlate with how the house looks",
-      html: `<p>This is the detail that surprises most buyers: radon levels have essentially nothing to do with the home's age, condition, or price point. A beautifully renovated home in Carmel and a dated fixer-upper in Lawrence can both test high, because radon enters through soil gas and foundation cracks rather than through anything visible during a normal walkthrough. The only way to actually know is to run the 48-hour test.</p>`
+      html: `<p>This is the detail that surprises most buyers: radon levels have essentially nothing to do with the home's age, condition, or price point. A beautifully renovated home in <a href="/carmel">Carmel</a>, a dated fixer-upper in <a href="/lawrence">Lawrence</a>, and a mid-century bungalow on a masonry block foundation in <a href="/speedway">Speedway</a> can all test high alike, because radon enters through soil gas and foundation cracks rather than through anything visible during a normal walkthrough. The only way to actually know is to run the 48-hour test.</p>`
     },
     {
       h2: "What to do if you're buying without a test",

@@ -174,7 +174,7 @@ module.exports = [
     },
     {
       h2: "Why it matters more in older Indianapolis neighborhoods",
-      html: `<p>Homes built before the 1970s in areas like Irvington, Fountain Square, Meridian-Kessler, and older sections of <a href="/beech-grove">Beech Grove</a> and <a href="/speedway">Speedway</a> often still have original clay tile or cast iron sewer laterals. Clay tile is prone to root intrusion at the joints as tree roots seek out moisture, and cast iron corrodes and eventually collapses from the inside as decades of use wear down the pipe wall. Neither shows up on a visual inspection — the line is buried and the yard looks fine right up until it isn't, sometimes for years after the problem actually starts.</p>`
+      html: `<p>Homes built before the 1970s in areas like Irvington, Fountain Square, Meridian-Kessler, and older sections of <a href="/beech-grove">Beech Grove</a>, <a href="/speedway">Speedway</a>, and Old Town <a href="/greenwood">Greenwood</a> often still have original clay tile or cast iron sewer laterals. Clay tile is prone to root intrusion at the joints as tree roots seek out moisture, and cast iron corrodes and eventually collapses from the inside as decades of use wear down the pipe wall. Neither shows up on a visual inspection — the line is buried and the yard looks fine right up until it isn't, sometimes for years after the problem actually starts.</p>`
     },
     {
       h2: "What a bad line actually costs to fix",
@@ -219,7 +219,7 @@ module.exports = [
     },
     {
       h2: "Where Indianapolis homes are most at risk",
-      html: `<p>Basements and crawl spaces are the two highest-risk zones locally, largely because of Indiana's clay-heavy soil, which drains poorly and pushes groundwater against foundation walls after heavy spring rain. Homes with a sump pump that's undersized or hasn't been tested in years, and homes with poor grading sloping water back toward the foundation instead of away from it, see mold and moisture issues at a noticeably higher rate than homes without those conditions.</p>`
+      html: `<p>Basements and crawl spaces are the two highest-risk zones locally, largely because of Indiana's clay-heavy soil, which drains poorly and pushes groundwater against foundation walls after heavy spring rain. Homes with a sump pump that's undersized or hasn't been tested in years, and homes with poor grading sloping water back toward the foundation instead of away from it, see mold and moisture issues at a noticeably higher rate than homes without those conditions. Low-lying areas near a waterway — homes close to the White River corridor in <a href="/greenwood">Greenwood</a>, for example — carry extra risk for the same reason.</p>`
     },
     {
       h2: "What drives the price up",
@@ -251,7 +251,7 @@ module.exports = [
   category: "Pricing",
   date: "2026-07-23",
   relatedSlugs: ["home-inspection-cost-indianapolis", "what-does-a-home-inspection-cover", "common-issues-found-in-indianapolis-home-inspections"],
-  intro: `<p>New doesn't mean flawless. With Indianapolis suburbs like Westfield, Fishers, and Whitestown adding new subdivisions every year, we inspect newly built homes constantly — and defects are far more common than most buyers expect from a house nobody has ever lived in.</p>
+  intro: `<p>New doesn't mean flawless. With Indianapolis suburbs like <a href="/westfield">Westfield</a>, Fishers, <a href="/brownsburg">Brownsburg</a>, and Whitestown adding new subdivisions every year, we inspect newly built homes constantly — and defects are far more common than most buyers expect from a house nobody has ever lived in.</p>
       <p>It's an easy trap to assume a brand-new home from a reputable builder doesn't need the same scrutiny as a resale property, especially when the builder's own team is already doing walkthroughs. In practice, new construction defects are often just as costly as resale issues — they're simply less expected, which makes catching them early even more valuable.</p>`,
   sections: [
     {

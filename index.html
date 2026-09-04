@@ -210,11 +210,21 @@
     .menu-dropdown a:hover { background: rgba(255,255,255,.08); color: #fff; }
 
     /* ── Hero ── */
+    /* Drop any photo at /assets/hero.jpg and it gets the dark tint + white
+       text treatment automatically. Until that file exists, the solid
+       background-color below shows through the tint gradient, so the hero
+       still reads as an intentional dark band rather than a broken image. */
     .hero {
-      background: #ffffff;
-      color: var(--dark);
+      background-color: #1F2937;
+      background-image:
+        linear-gradient(rgba(17, 24, 39, 0.84), rgba(17, 24, 39, 0.84)),
+        url("/assets/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: #fff;
       padding: 80px 0 72px;
-      border-bottom: 1px solid #E5E7EB;
+      border-bottom: none;
     }
     .hero-inner {
       display: grid;
@@ -230,9 +240,9 @@
       display: inline-flex;
       align-items: center;
       gap: 7px;
-      background: #F9FAFB;
-      border: 1px solid #E5E7EB;
-      color: #374151;
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      color: #fff;
       padding: 6px 14px;
       border-radius: 100px;
       font-size: .82rem;
@@ -245,11 +255,12 @@
       font-weight: 900;
       line-height: 1.13;
       margin-bottom: 18px;
+      color: #fff;
     }
-    .hero h1 em { font-style: normal; color: var(--brand); }
+    .hero h1 em { font-style: normal; color: #fff; }
     .hero-sub {
       font-size: 1.1rem;
-      color: #718096;
+      color: rgba(255, 255, 255, 0.85);
       margin-bottom: 32px;
       max-width: 500px;
     }
@@ -265,18 +276,20 @@
       align-items: center;
       gap: 7px;
       font-size: .88rem;
-      color: #718096;
+      color: rgba(255, 255, 255, 0.8);
     }
-    .check { color: #22c55e; font-size: 1rem; }
-    .hero .btn-outline { color: var(--dark); border-color: #E5E7EB; }
-    .hero .btn-outline:hover { background: #F9FAFB; border-color: var(--dark); }
+    .check { color: #4ade80; font-size: 1rem; }
+    .hero .btn-outline { color: #fff; border-color: rgba(255, 255, 255, 0.7); }
+    .hero .btn-outline:hover { background: rgba(255, 255, 255, 0.12); border-color: #fff; }
+    .hero .btn-primary { background: #fff; color: var(--dark); }
+    .hero .btn-primary:hover { background: #E5E7EB; }
 
     /* Hero Form Card */
     .hero-form-card {
       background: #fff;
       border-radius: 16px;
       padding: 36px 30px;
-      box-shadow: 0 4px 24px rgba(0,0,0,.08);
+      box-shadow: 0 20px 50px rgba(0,0,0,.28);
       border: 1px solid #E5E7EB;
     }
     .form-title { font-size: 1.25rem; font-weight: 800; color: var(--dark); margin-bottom: 4px; }

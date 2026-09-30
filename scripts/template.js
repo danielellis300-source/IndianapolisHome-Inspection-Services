@@ -26,6 +26,18 @@ function readTimeFor(article) {
   return Math.max(1, Math.round(words / 200));
 }
 
+// Favicon + social preview tags. Shared with scripts/patch-hand-pages.js so
+// the homepage and city pages carry the exact same markup.
+function renderIconTags() {
+  return `  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png" />
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+  <meta property="og:image" content="${config.domain}/assets/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="${config.domain}/assets/og-image.png" />`;
+}
+
 function renderHead({ title, description, canonicalPath, ogTitle, ogDescription, extraSchema }) {
   const canonical = `${config.domain}${canonicalPath}`;
   return `<meta charset="UTF-8" />
@@ -37,6 +49,7 @@ function renderHead({ title, description, canonicalPath, ogTitle, ogDescription,
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escapeHtml(ogTitle)}" />
   <meta property="og:description" content="${escapeHtml(ogDescription)}" />
+${renderIconTags()}
 
   <meta name="robots" content="index, follow" />
   <meta property="og:type" content="article" />
@@ -352,4 +365,4 @@ ${renderMenuScript()}
 `;
 }
 
-module.exports = { renderArticlePage, renderBlogIndexPage, readTimeFor, formatDate };
+module.exports = { renderArticlePage, renderBlogIndexPage, renderIconTags, escapeHtml, readTimeFor, formatDate };

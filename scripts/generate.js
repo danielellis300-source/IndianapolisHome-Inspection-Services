@@ -1,7 +1,8 @@
 /* ════════════════════════════════════════════════════════════
    Blog site generator — Indianapolis Home Inspection Services
    Run: node scripts/generate.js
-   Produces: blog/<slug>.html, blog/index.html, sitemap.xml, robots.txt
+   Produces: blog/<slug>.html, blog/index.html, sitemap.xml, robots.txt,
+   _redirects; then patches index.html + city pages (patch-hand-pages.js)
    ════════════════════════════════════════════════════════════ */
 
 const fs = require('fs');
@@ -9,6 +10,7 @@ const path = require('path');
 const config = require('./site-config');
 const articles = require('./blog-data');
 const { renderArticlePage, renderBlogIndexPage } = require('./template');
+const { patchHandPages } = require('./patch-hand-pages');
 
 const ROOT = path.join(__dirname, '..');
 const BLOG_DIR = path.join(ROOT, 'blog');
@@ -99,6 +101,7 @@ function main() {
   generateSitemap();
   generateRobots();
   generateRedirects();
+  patchHandPages();
   console.log(`\nDone. Generated ${articles.length} articles + blog index + sitemap.xml + robots.txt + _redirects.`);
 }
 
